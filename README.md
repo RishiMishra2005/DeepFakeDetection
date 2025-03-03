@@ -34,11 +34,12 @@ We provide a benchmark suite for evaluating deepfake detection performance acros
 
 If you use this deepfake detection dataset or code, please cite:
 
-@inproceedings{deepfake2024,
-  author = {Your Name and Collaborators},
-  title = {Deepfake Detection: Identifying Manipulated Videos and Images},
-  booktitle= {Conference on AI Security},
-  year = {2024}
+```bibtex
+@inproceedings{roessler2019faceforensicspp,
+    author = {Andreas R\"ossler and Davide Cozzolino and Luisa Verdoliva and Christian Riess and Justus Thies and Matthias Nie{\ss}ner},
+    title = {Face{F}orensics++: Learning to Detect Manipulated Facial Images},
+    booktitle= {International Conference on Computer Vision (ICCV)},
+    year = {2019}
 }
 
 ## Help

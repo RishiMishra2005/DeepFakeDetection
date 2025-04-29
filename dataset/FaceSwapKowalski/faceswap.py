@@ -1,5 +1,5 @@
 """
-FaceSwap single image sequence manipulation script
+FaceSwap single image sequence manipulation script.
 
 Usage: see -h or https://github.com/ondyari/FaceForensics/datasets/manipulation_methods
 

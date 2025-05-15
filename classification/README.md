@@ -18,7 +18,7 @@ from the classification folder. Enable cuda with ```--cuda```  or see parameters
 
 
 
-# Requirements
+# Requirement
 
 - python 3.6
 - requirements.txt

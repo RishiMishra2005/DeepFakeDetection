@@ -224,7 +224,6 @@ def xception(num_classes=1000, pretrained='imagenet'):
         model.input_range = settings['input_range']
         model.mean = settings['mean']
         model.std = settings['std']
-
     # TODO: ugly
     model.last_linear = model.fc
     del model.fc

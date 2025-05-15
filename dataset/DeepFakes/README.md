@@ -56,7 +56,6 @@ python deepfakes.py
     --python_path <path to python file, e.g., /home/<user>/anaconda3/bin/python>
     (--filelist <path to filelist json that defines the pairs from the input folder (check out our filelist splits as an example)
 ```
-   
  ## Masks
  In comparison to FaceSwap or Face2Face, it is not straightforward what to select as the DeepFakes manipulated area, i.e., mask, as this depends on the post-processing. Our current setup uses Poisson image editing to merge the manipulated area with the rest of the image. The DeepFakes masks in our dataset thus contain all areas where we apply the poisson image editing.
  

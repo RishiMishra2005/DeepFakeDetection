@@ -98,7 +98,6 @@ If you split a video, using [ffmpeg](https://www.ffmpeg.org) for example, and us
 ```bash
 ffmpeg -i video-frame-%0d.png -c:v libx264 -vf "fps=25,format=yuv420p" out.mp4
 ```
-
 ## Notes
 This guide is far from complete. Functionality may change over time, and new dependencies are added and removed as time goes on. 
 

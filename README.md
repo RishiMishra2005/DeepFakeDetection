@@ -52,7 +52,6 @@ For any questions or issues, please contact us at deepfake-detection@support.com
 01.03.2025: Added real-time detection pipeline
 
 15.12.2024: Released dataset and benchmark
-
 10.10.2024: Initial project release
 
 ## License

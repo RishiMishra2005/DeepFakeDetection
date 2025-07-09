@@ -154,3 +154,4 @@ class MTCNNDetector(Detector):
         self.detected_faces = [dlib.rectangle(int(face[0]), int(face[1]),
                                               int(face[2]), int(face[3]))
                                for face in detected_faces]
+=
